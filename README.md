@@ -9,7 +9,7 @@
 ### 参观 CCA
 
 ### HIKING 大约 10 公里
-![hiking](hiking.png)
+![hiking](Hiking.png)
 
 ## Clark Center for the Arts (CCA) at the Guild Park and Gardens
 [![CCA](CCA.png)](https://www.toronto.ca/explore-enjoy/festivals-events/doors-open-toronto/doors-open-buildings-sites/building-or-site-details/?id=a0j3m00000G3IKBAA3&title=Clark-Centre-for-the-Arts-(CCA))
